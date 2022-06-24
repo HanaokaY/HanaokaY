@@ -10,13 +10,6 @@
 |  20/9~21/4  |  KENスクール札幌でJavaを学習 |
 |  20/6~  |  WebエンジニアとしてSES企業に就職 |
 
-|  key  |  value  |
-| ---- | ---- |
-|  名前  |  わかな  |
-|  Qiita  |  [@HanaokaY](https://qiita.com/HanaokaY)
-|  Twitter  |  [@98wkmon](https://twitter.com/URAokayu69)  |
-
-
 <p align="left">
   <a href="https://github.com/HanaokaY/HanaokaY/">
     <img src="https://komarev.com/ghpvc/?username=HanaokaY" alt="HanaokaY" />
