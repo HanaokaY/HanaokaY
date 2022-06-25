@@ -1,34 +1,14 @@
 # Profile
+[![](https://raw.githubusercontent.com/HanaokaY/HanaokaY/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/HanaokaY/HanaokaY/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/HanaokaY/HanaokaY/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/HanaokaY/HanaokaY/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/HanaokaY/HanaokaY/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/HanaokaY/HanaokaY/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
+## 略歴
 |  年月  |  職歴  |
 | ---- | ---- |
 |  19/3~20/8  |  北海道旅客鉄道株式会社  |
 |  20/9~21/4  |  KENスクール札幌でJavaを学習 |
-|  20/6~  |  WebエンジニアとしてSES企業に就職 |
-
-<p align="left">
-  <a href="https://github.com/HanaokaY/HanaokaY/">
-    <img src="https://komarev.com/ghpvc/?username=HanaokaY" alt="HanaokaY" />
-  </a>
-  <a href="http://twitter.com/HanaokaY">
-    <img height="20" src="https://img.shields.io/twitter/follow/HanaokaY?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/HanaokaY">
-    <img height="20" src="https://img.shields.io/github/followers/HanaokaY?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://www.reddit.com/user/HanaokaY">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/HanaokaY?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/5720201/HanaokaY">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
- 
-</p>
-
+|  20/6~  |  自社開発・SES企業に就職 |
+|    |  自社コンテンツ開発や現場に常駐して開発業務に従事  |
 
 <p align="left">
 </p>
